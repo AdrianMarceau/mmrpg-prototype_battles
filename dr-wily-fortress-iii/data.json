@@ -1,0 +1,81 @@
+{
+    "battle_token": "dr-wily-fortress-iii",
+    "battle_name": "Chapter Five Final Battle 2\/3",
+    "battle_size": "1x4",
+    "battle_encore": true,
+    "battle_description": "Defeat the dark soul variants of Bass, Proto Man, and Mega Man!",
+    "battle_field_base": {
+        "field_id": 100,
+        "field_token": "final-destination-2",
+        "field_name": "Final Destination II",
+        "field_music": "sega-remix\/wily-fortress-1-mm9",
+        "field_mechas": [
+            "batton",
+            "crazy-cannon",
+            "fan-fiend",
+            "killer-bullet",
+            "pierrobot",
+            "snapper",
+            "spring-head",
+            "telly"
+        ]
+    },
+    "battle_target_player": {
+        "player_id": 999999,
+        "player_token": "player",
+        "player_robots": [
+            {
+                "robot_id": 1000000,
+                "robot_token": "bass-ds",
+                "robot_level": 40,
+                "robot_item": "attack-booster",
+                "robot_abilities": [
+                    "metal-blade",
+                    "bubble-spray",
+                    "atomic-fire",
+                    "leaf-shield",
+                    "air-shooter",
+                    "crash-bomber",
+                    "flash-stopper",
+                    "quick-boomerang"
+                ]
+            },
+            {
+                "robot_id": 1000001,
+                "robot_token": "proto-man-ds",
+                "robot_level": 40,
+                "robot_item": "speed-booster",
+                "robot_abilities": [
+                    "drill-blitz",
+                    "rain-flush",
+                    "bright-burst",
+                    "pharaoh-shot",
+                    "ring-boomerang",
+                    "dust-crusher",
+                    "skull-barrier",
+                    "dive-torpedo"
+                ]
+            },
+            {
+                "robot_id": 1000002,
+                "robot_token": "mega-man-ds",
+                "robot_level": 40,
+                "robot_item": "defense-booster",
+                "robot_abilities": [
+                    "rolling-cutter",
+                    "hyper-bomb",
+                    "ice-breath",
+                    "fire-storm",
+                    "oil-shooter",
+                    "thunder-strike",
+                    "time-arrow",
+                    "super-throw"
+                ]
+            }
+        ]
+    },
+    "battle_rewards": {
+        "abilities": [],
+        "items": []
+    }
+}
