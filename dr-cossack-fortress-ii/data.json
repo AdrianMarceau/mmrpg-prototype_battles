@@ -26,6 +26,21 @@
         "player_robots": [
             {
                 "robot_id": 1000000,
+                "robot_token": "shield-attacker",
+                "robot_image": "shield-attacker",
+                "robot_level": 40,
+                "robot_abilities": [
+                    "shield-attack",
+                    "attack-break",
+                    "defense-break",
+                    "speed-break"
+                ],
+                "flags": {
+                    "hide_from_mission_select": true
+                }
+            },
+            {
+                "robot_id": 1000001,
                 "robot_token": "beak",
                 "robot_image": "beak_alt2",
                 "robot_level": 40,
@@ -40,37 +55,7 @@
                 }
             },
             {
-                "robot_id": 1000001,
-                "robot_token": "beak",
-                "robot_image": "beak_alt2",
-                "robot_level": 40,
-                "robot_abilities": [
-                    "beak-shot",
-                    "attack-break",
-                    "defense-break",
-                    "speed-break"
-                ],
-                "flags": {
-                    "hide_from_mission_select": true
-                }
-            },
-            {
                 "robot_id": 1000002,
-                "robot_token": "beak",
-                "robot_image": "beak_alt2",
-                "robot_level": 40,
-                "robot_abilities": [
-                    "beak-shot",
-                    "attack-mode",
-                    "defense-mode",
-                    "speed-mode"
-                ],
-                "flags": {
-                    "hide_from_mission_select": true
-                }
-            },
-            {
-                "robot_id": 1000003,
                 "robot_token": "ballade",
                 "robot_level": 40,
                 "robot_item": "energy-upgrade",
@@ -91,6 +76,21 @@
                     "laser-overdrive",
                     "mecha-support"
                 ]
+            },
+            {
+                "robot_id": 1000003,
+                "robot_token": "beak",
+                "robot_image": "beak_alt2",
+                "robot_level": 40,
+                "robot_abilities": [
+                    "beak-shot",
+                    "attack-boost",
+                    "defense-boost",
+                    "speed-boost"
+                ],
+                "flags": {
+                    "hide_from_mission_select": true
+                }
             }
         ]
     },
