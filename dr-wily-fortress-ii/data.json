@@ -26,11 +26,11 @@
         "player_robots": [
             {
                 "robot_id": 1000000,
-                "robot_token": "beak",
-                "robot_image": "beak_alt",
+                "robot_token": "shield-attacker",
+                "robot_image": "shield-attacker",
                 "robot_level": 30,
                 "robot_abilities": [
-                    "beak-shot",
+                    "shield-attack",
                     "attack-boost",
                     "defense-boost",
                     "speed-boost"
@@ -41,11 +41,11 @@
             },
             {
                 "robot_id": 1000001,
-                "robot_token": "beak",
-                "robot_image": "beak_alt",
+                "robot_token": "shield-attacker",
+                "robot_image": "shield-attacker",
                 "robot_level": 30,
                 "robot_abilities": [
-                    "beak-shot",
+                    "shield-attack",
                     "attack-break",
                     "defense-break",
                     "speed-break"
