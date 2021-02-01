@@ -10,14 +10,7 @@
         "field_name": "Final Destination",
         "field_music": "sega-remix\/special-stage-2-mm10",
         "field_mechas": [
-            "batton",
-            "crazy-cannon",
-            "fan-fiend",
-            "killer-bullet",
-            "pierrobot",
-            "snapper",
-            "spring-head",
-            "telly"
+            "shield-attacker"
         ]
     },
     "battle_target_player": {
