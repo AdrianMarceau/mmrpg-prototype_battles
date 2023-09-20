@@ -18,7 +18,7 @@
             {
                 "robot_id": 1000000,
                 "robot_token": "bass",
-                "robot_level": 10,
+                "robot_level": 13,
                 "robot_item": "weapon-pellet",
                 "robot_abilities": [
                     "bass-buster",
@@ -38,7 +38,7 @@
             {
                 "robot_id": 1000001,
                 "robot_token": "disco",
-                "robot_level": 10,
+                "robot_level": 13,
                 "robot_item": "energy-pellet",
                 "robot_abilities": [
                     "disco-buster",
