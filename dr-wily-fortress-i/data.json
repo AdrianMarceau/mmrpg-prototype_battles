@@ -18,7 +18,7 @@
             {
                 "robot_id": 1000000,
                 "robot_token": "proto-man",
-                "robot_level": 20,
+                "robot_level": 22,
                 "robot_item": "weapon-capsule",
                 "robot_abilities": [
                     "proto-buster",
@@ -38,7 +38,7 @@
             {
                 "robot_id": 1000001,
                 "robot_token": "rhythm",
-                "robot_level": 20,
+                "robot_level": 22,
                 "robot_item": "energy-capsule",
                 "robot_abilities": [
                     "rhythm-buster",
