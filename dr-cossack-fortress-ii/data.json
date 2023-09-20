@@ -3,7 +3,7 @@
     "battle_name": "Chapter Five Final Battle 1\/3",
     "battle_size": "1x4",
     "battle_encore": true,
-    "battle_description": "Defeat the resurrected Ballade in battle!",
+    "battle_description": "Defeat the alien robot Terra in a final encounter!",
     "battle_field_base": {
         "field_id": 100,
         "field_token": "final-destination",
@@ -11,6 +11,7 @@
         "field_music": "sega-remix\/special-stage-3-mm10",
         "field_mechas": [
             "beak",
+            "ring-ring",
             "shield-attacker"
         ]
     },
@@ -20,71 +21,35 @@
         "player_robots": [
             {
                 "robot_id": 1000000,
-                "robot_token": "shield-attacker",
-                "robot_image": "shield-attacker",
+                "robot_token": "terra",
+                "robot_item": "laser-core",
                 "robot_level": 40,
                 "robot_abilities": [
-                    "shield-attack",
-                    "attack-break",
-                    "defense-break",
-                    "speed-break"
-                ],
-                "flags": {
-                    "hide_from_mission_select": true
-                }
-            },
-            {
-                "robot_id": 1000001,
-                "robot_token": "beak",
-                "robot_image": "beak_alt2",
-                "robot_level": 40,
-                "robot_abilities": [
-                    "beak-shot",
-                    "attack-boost",
-                    "defense-boost",
-                    "speed-boost"
-                ],
-                "flags": {
-                    "hide_from_mission_select": true
-                }
-            },
-            {
-                "robot_id": 1000002,
-                "robot_token": "ballade",
-                "robot_level": 40,
-                "robot_item": "energy-upgrade",
-                "robot_abilities": [
-                    "buster-shot",
-                    "buster-charge",
-                    "energy-assault",
-                    "attack-assault",
-                    "defense-assault",
-                    "speed-assault",
-                    "hyper-bomb",
-                    "crash-avenger",
-                    "quick-boomerang",
-                    "gemini-laser",
-                    "core-laser",
+                    "thunder-beam",
+                    "space-shot",
+                    "electric-shot",
                     "laser-shot",
-                    "laser-buster",
-                    "laser-overdrive",
-                    "mecha-support"
+                    "buster-charge",
+                    "energy-boost",
+                    "space-buster",
+                    "space-overdrive"
                 ]
             },
             {
-                "robot_id": 1000003,
-                "robot_token": "beak",
-                "robot_image": "beak_alt2",
+                "robot_id": 1000001,
+                "robot_token": "star-man",
                 "robot_level": 40,
+                "robot_item": "fortune-module",
                 "robot_abilities": [
-                    "beak-shot",
-                    "attack-boost",
-                    "defense-boost",
-                    "speed-boost"
-                ],
-                "flags": {
-                    "hide_from_mission_select": true
-                }
+                    "star-barrier",
+                    "buster-shot",
+                    "space-shot",
+                    "space-buster",
+                    "space-overdrive",
+                    "rhythm-satellite",
+                    "lunar-memory",
+                    "buster-charge"
+                ]
             }
         ]
     },

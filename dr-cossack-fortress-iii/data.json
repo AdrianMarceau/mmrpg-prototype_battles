@@ -3,7 +3,7 @@
     "battle_name": "Chapter Five Final Battle 2\/3",
     "battle_size": "1x4",
     "battle_encore": true,
-    "battle_description": "Defeat the dark soul variants of Proto Man, Mega Man, and Bass!",
+    "battle_description": "Defeat the furious Dark Man 4 with his dark soul variants of Proto Man, Mega Man, and Bass!",
     "battle_field_base": {
         "field_id": 100,
         "field_token": "final-destination-2",
@@ -25,9 +25,25 @@
         "player_token": "player",
         "player_robots": [
             {
+                "robot_id": 1000003,
+                "robot_token": "dark-man-4",
+                "robot_level": 50,
+                "robot_item": "field-booster",
+                "robot_abilities": [
+                    "shadow-buster",
+                    "shadow-shot",
+                    "shadow-overdrive",
+                    "buster-charge",
+                    "core-laser",
+                    "core-shield",
+                    "attack-support",
+                    "defense-break"
+                ]
+            },
+            {
                 "robot_id": 1000000,
                 "robot_token": "proto-man-ds",
-                "robot_level": 50,
+                "robot_level": 45,
                 "robot_item": "attack-booster",
                 "robot_abilities": [
                     "drill-blitz",
@@ -43,7 +59,7 @@
             {
                 "robot_id": 1000001,
                 "robot_token": "mega-man-ds",
-                "robot_level": 50,
+                "robot_level": 45,
                 "robot_item": "speed-booster",
                 "robot_abilities": [
                     "rolling-cutter",
@@ -59,7 +75,7 @@
             {
                 "robot_id": 1000002,
                 "robot_token": "bass-ds",
-                "robot_level": 50,
+                "robot_level": 45,
                 "robot_item": "defense-booster",
                 "robot_abilities": [
                     "metal-blade",

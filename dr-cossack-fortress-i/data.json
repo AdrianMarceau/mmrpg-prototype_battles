@@ -20,7 +20,7 @@
                 "robot_token": "mega-man",
                 "robot_name": "Mega Man \u03a3",
                 "robot_image": "mega-man_alt9",
-                "robot_level": 30,
+                "robot_level": 32,
                 "robot_item": "weapon-tank",
                 "robot_abilities": [
                     "mega-buster",
@@ -48,7 +48,7 @@
                 "robot_token": "roll",
                 "robot_name": "Roll \u03a3",
                 "robot_image": "roll_alt9",
-                "robot_level": 30,
+                "robot_level": 32,
                 "robot_item": "energy-tank",
                 "robot_abilities": [
                     "roll-buster",
