@@ -41,7 +41,7 @@
                 "robot_level": 40,
                 "robot_item": "fortune-module",
                 "robot_abilities": [
-                    "star-barrier",
+                    "star-crash",
                     "buster-shot",
                     "space-shot",
                     "space-buster",
