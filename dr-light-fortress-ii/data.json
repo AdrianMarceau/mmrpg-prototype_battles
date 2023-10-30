@@ -23,7 +23,7 @@
                 "robot_id": 1000000,
                 "robot_token": "terra",
                 "robot_item": "laser-core",
-                "robot_level": 20,
+                "robot_level": 25,
                 "robot_abilities": [
                     "thunder-beam",
                     "space-shot",
