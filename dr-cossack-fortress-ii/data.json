@@ -23,7 +23,7 @@
                 "robot_id": 1000000,
                 "robot_token": "terra",
                 "robot_item": "laser-core",
-                "robot_level": 40,
+                "robot_level": 65,
                 "robot_abilities": [
                     "thunder-beam",
                     "space-shot",
@@ -38,7 +38,7 @@
             {
                 "robot_id": 1000001,
                 "robot_token": "star-man",
-                "robot_level": 40,
+                "robot_level": 60,
                 "robot_item": "fortune-module",
                 "robot_abilities": [
                     "star-crash",

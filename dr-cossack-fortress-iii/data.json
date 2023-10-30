@@ -27,7 +27,7 @@
             {
                 "robot_id": 1000003,
                 "robot_token": "dark-man-4",
-                "robot_level": 50,
+                "robot_level": 70,
                 "robot_item": "field-booster",
                 "robot_abilities": [
                     "shadow-buster",
@@ -43,7 +43,7 @@
             {
                 "robot_id": 1000000,
                 "robot_token": "proto-man-ds",
-                "robot_level": 45,
+                "robot_level": 65,
                 "robot_item": "attack-booster",
                 "robot_abilities": [
                     "drill-blitz",
@@ -59,7 +59,7 @@
             {
                 "robot_id": 1000001,
                 "robot_token": "mega-man-ds",
-                "robot_level": 45,
+                "robot_level": 65,
                 "robot_item": "speed-booster",
                 "robot_abilities": [
                     "rolling-cutter",
@@ -75,7 +75,7 @@
             {
                 "robot_id": 1000002,
                 "robot_token": "bass-ds",
-                "robot_level": 45,
+                "robot_level": 65,
                 "robot_item": "defense-booster",
                 "robot_abilities": [
                     "metal-blade",
